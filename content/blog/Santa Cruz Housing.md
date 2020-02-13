@@ -35,6 +35,7 @@ By many measures, Santa Cruz is one of the most [unaffordable](https://www.usato
 
 Silicon Valley has undeniably created a huge amount of demand in Santa Cruz. It's one of the most desireable places to live, and we are essentially an extension of the Bay Area. The county hasn't been a slouch either, with [6% job growth](https://www.co.santa-cruz.ca.us/portals/0/SCWDB%202018%20Report.pdf) between 2007 and 2017. But was there nothing we could have done to prevent this situation? [According to the U.S. Department of Housing and Urban Development](https://www.co.santa-cruz.ca.us/portals/0/SCWDB%202018%20Report.pdf), Santa Cruz has built a tiny fraction of the number of homes that were needed to address demand. In fact, from June 2018 to June 2019, the county only authorized 130 new homes, a fraction of the 660 homes built annually between 2003 and 2006. 
 
+![Santa Cruz Zoning Map](./images/sczoning.png)
 
 > "In addition to topographical restraints, residential development has been clustered in small urbanized areas such as the cities of Santa Cruz, Scotts Valley, and Watsonville because development in many other areas has significant opposition from the community." - Dept. of Housing and Urban Development
 

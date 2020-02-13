@@ -1,16 +1,12 @@
 {
   "social": [
     {
-      "icon": "facebook",
-      "link": "https://www.facebook.com"
-    },
-    {
       "icon": "twitter",
-      "link": "https://twitter.com/"
+      "link": "https://twitter.com/danielhep"
     },
     {
-      "icon": "linkedin",
-      "link": "https://www.linkedin.com"
+      "icon": "github",
+      "link": "https://github.com/danielhep"
     }
   ]
 }

@@ -4,31 +4,22 @@
       "name": "Home",
       "link": "/",
       "external": false
-    },
-    {
-      "name": "About",
-      "link": "/about",
-      "external": false
-    },
-    {
-      "name": "Getting started",
-      "link": "/category/getting-started",
-      "external": false
     }
   ],
-  "footerNavigation": [{
+  "footerNavigation": [
+    {
       "name": "Latest Posts",
       "link": "/",
-      "external" : false
+      "external": false
     },
     {
-      "name": "Facebook",
-      "link": "https://www.facebook.com",
+      "name": "Twitter",
+      "link": "https://www.twitter.com/danielhep",
       "external": true
     },
     {
-      "name": "Gridsome",
-      "link": "https://www.gridsome.org",
+      "name": "GitHub",
+      "link": "https://www.github.com/danielhep",
       "external": true
     },
     {

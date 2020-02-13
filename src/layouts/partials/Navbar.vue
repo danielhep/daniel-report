@@ -1,19 +1,21 @@
 <template>
   <div class="fixed inset-0 h-16 bg-black">
-    <nav 
-    class="flex items-center justify-between flex-wrap container mx-auto px-4 sm:px-0 py-4 transition-all transition-500" 
-    v-bind:class="{
+    <nav
+      class="flex items-center justify-between flex-wrap container mx-auto px-4 sm:px-0 py-4 transition-all transition-500"
+      v-bind:class="{
       'opacity-100': !disableScroll && scrollPosition > headerHeight, 
       'opacity-0': !disableScroll && scrollPosition < headerHeight
-    }">
+    }"
+    >
       <div class="block flex-grow flex items-center w-auto">
         <div class="flex items-center flex-shrink-0 text-white mr-6">
-          <font-awesome :icon="['fas', 'ghost']" class="mr-3"></font-awesome>
+          <!-- <font-awesome :icon="['fas', 'ghost']" class="mr-3"></font-awesome> -->
           <span class="font-semibold text-xl tracking-tight">{{ $static.metadata.siteName }}</span>
         </div>
         <div class="text-sm flex-grow uppercase">
-          <ul 
-          class="list-none flex justify-left text-gray-300 uppercase transition-all transition-500">
+          <ul
+            class="list-none flex justify-left text-gray-300 uppercase transition-all transition-500"
+          >
             <li
               :key="element.name"
               v-for="(element,index) in $static.metadata.navigation"
@@ -31,7 +33,7 @@
             </li>
           </ul>
         </div>
-        
+
         <div class="inline-block text-gray-400">
           <ul class="list-none flex justify-center md:justify-end">
             <li class="mr-0 sm:mr-6">
@@ -51,7 +53,6 @@
             </li>
           </ul>
         </div>
-
       </div>
     </nav>
   </div>
