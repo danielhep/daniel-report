@@ -12,7 +12,7 @@
 
 query($page:Int) {
 
-  entries: allBlog(perPage: 9, page: $page) @paginate {
+  entries: allBlog(perPage: 9, page: $page, sortBy: "created") @paginate {
     totalCount
     pageInfo {
       totalPages

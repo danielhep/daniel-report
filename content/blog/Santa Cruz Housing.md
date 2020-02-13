@@ -3,7 +3,7 @@ title: Santa Cruz Housing Policy is Conservative
 tags: housing, land use, santa cruz
 category: Land Use
 excerpt: The housing situation in Santa Cruz will continue to be inequitable, unfair, and climate-damaging until more homes are built. 
-created: 2019-01-10
+created: 2020-02-13
 image: ./images/Aerial_view_-_Santa_Cruz_CA.jpg
 image_caption: Santa Cruz sprawl from the boardwalk.
 author: danielhep
