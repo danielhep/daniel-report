@@ -10,6 +10,12 @@ module.exports = {
   siteUrl: 'http://localhost:8080',
   plugins: [
     {
+      use: '@gridsome/plugin-google-analytics',
+      options: {
+        id: 'UA-64119500-3'
+      }
+    },
+    {
       use: 'gridsome-plugin-tailwindcss',
       options: {
         tailwindConfig: './tailwind.config.js',
