@@ -10,6 +10,12 @@ module.exports = {
   siteUrl: 'http://localhost:8080',
   plugins: [
     {
+      use: `gridsome-plugin-netlify-cms`,
+      options: {
+        plugins: [`netlify-cms-widget-youtube`]
+      }
+    }, 
+    {
       use: '@gridsome/plugin-google-analytics',
       options: {
         id: 'UA-64119500-3'
