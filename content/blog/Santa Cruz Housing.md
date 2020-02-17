@@ -14,7 +14,7 @@ author: danielhep
 
 As I write this, grad students at UCSC [are on strike](https://www.santacruzsentinel.com/2020/02/10/ucsc-graduate-students-go-on-strike/). They [are asking](https://payusmoreucsc.com/campaign-timeline/) for an additional $1,400 per month, on top of their current $2,400 monthly salary, just to cover the cost of living in Santa Cruz. Is UCSC treating its student employees unfairly, or is UCSC just another victim of the exorbitant housing prices that Santa Cruz has created? 
 
-Indeed, the cost of living in Santa Cruz is at a point where many would consider it a crisis. [It costs $2,200 to rent the average one bedroom apartment, and $3,300 to rent a two bedroom apartment.](https://www.rentjungle.com/average-rent-in-santa-cruz-rent-trends/) For UCSC grad students, the percentage of their yearly salary going to rent would be 123% for a one bedroom, or 76% for a bedroom in a two bedroom apartment. Regardless of whether you believe UCSC is exploiting their student employees, this is clearly an unacceptable situation. 
+Indeed, the cost of living in Santa Cruz is at a point where many would consider it a crisis. [It costs $2,200 to rent the average one bedroom apartment, and $3,300 to rent a two bedroom apartment.](https://www.rentjungle.com/average-rent-in-santa-cruz-rent-trends/) For UCSC grad students, the percentage of their monthly income going to rent would be 123% for a one bedroom, or 76% for a bedroom in a two bedroom apartment. Regardless of whether you believe UCSC is exploiting their student employees, this is clearly an unacceptable situation. 
 
 ## Retail Workers
 
