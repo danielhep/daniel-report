@@ -1,5 +1,6 @@
 ---
 title: "San Diego MTS Fare Enforcement: Disorganized and Unfair?"
+url: "San Diego MTS Fare Enforcement: Disorganized and Unfair?"
 tags: fare enforcement, transit, san diego
 category: Transit
 excerpt: The housing situation in Santa Cruz will continue to be inequitable, unfair, and climate-damaging until more homes are built. 

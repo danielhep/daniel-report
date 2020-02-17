@@ -82,7 +82,7 @@ module.exports = {
   },
   templates: {
     Blog: [{
-      path: '/blog/:title'
+      path: '/blog/:url'
     }],
     Category: [{
       path: '/category/:title',

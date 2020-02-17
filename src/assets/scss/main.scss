@@ -154,9 +154,12 @@ ul {
 }
 
 body[data-theme="dark"] {
-  
     background-color: #191b1f;
     @apply text-gray-300;
+
+    .blog-excerpt {
+      @apply text-gray-500;
+    }
 
     .post-content-text {
       @apply text-gray-300;

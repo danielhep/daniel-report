@@ -10,7 +10,7 @@
             >{{ $page.blog.category.title }}</g-link>
           </span>
           <h1 class="text-5xl font-medium leading-none mt-0">{{ $page.blog.title}}</h1>
-          <div class="text-2xl pt-4 pb-10 text-gray-700 font-serif" v-html="$page.blog.excerpt"></div>
+          <div class="text-2xl pt-4 pb-10 font-serif blog-excerpt" v-html="$page.blog.excerpt"></div>
         </section>
         <section class="post-author-list mb-10 mx-0">
           <div class="flex items-center">
@@ -69,8 +69,8 @@
     <section class="post-related bg-black text-gray-200 pt-10 border-b border-b-gray-900">
       <div class="container mx-auto">
         <div class="flex flex-wrap pt-8 pb-8 mx-4 sm:-mx-4">
-          <PostListItem v-if="$page.previous" :record="$page.previous" :border=false></PostListItem>
-          <PostListItem v-if="$page.next" :record="$page.next" :border=false></PostListItem>
+          <PostListItem v-if="$page.previous" :record="$page.previous" :border="false"></PostListItem>
+          <PostListItem v-if="$page.next" :record="$page.next" :border="false"></PostListItem>
         </div>
       </div>
     </section>
