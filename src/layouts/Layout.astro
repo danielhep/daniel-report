@@ -112,8 +112,11 @@ const socialImageURL = new URL(
   <body>
     <slot />
     <!-- 100% privacy-first analytics -->
-    <script async defer src="https://scripts.simpleanalyticscdn.com/latest.js"
-    ></script>
+    <script
+      async
+      defer
+      data-collect-dnt="true"
+      src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
     <noscript
       ><img
         src="https://queue.simpleanalyticscdn.com/noscript.gif"
